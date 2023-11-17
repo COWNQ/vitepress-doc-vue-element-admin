@@ -10,7 +10,7 @@ hero:
   actions: 
     - theme: brand
       text: 查看文档
-      link: /markdown-examples
+      link: /use_scope
     - theme: alt
       text: 前往github
       link: /api-examples

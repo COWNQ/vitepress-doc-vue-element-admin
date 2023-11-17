@@ -39,12 +39,9 @@ export default defineConfig({
     sidebar: {
       "/": [
         {
-          text: "例子",
+          text: "项目准备",
           collapsed: true,
-          items: [
-            { text: "markdown开始", link: "/markdown-examples" },
-            { text: "运行时api", link: "/api-examples" },
-          ],
+          items: [{ text: "使用概括", link: "/use_scope" }],
         },
       ],
       "/en/": [
