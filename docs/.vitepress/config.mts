@@ -40,7 +40,9 @@ export default defineConfig({
       "/": [
         {
           text: "项目准备",
-          collapsed: true,
+          // 默认展开侧边栏
+          collapsed: false,
+          // 添加侧边栏目录
           items: [{ text: "使用概括", link: "/use_scope" }],
         },
       ],
